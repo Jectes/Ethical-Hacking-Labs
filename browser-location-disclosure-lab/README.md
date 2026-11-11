@@ -1,8 +1,8 @@
-<h1>Case 3 · Seeker</h1>
+<h1>Seeker</h1>
 
 **Browser-Based Location Disclosure: A Controlled Seeker Link Simulation Case Study**
 
-Joseph Gonzalez · ZeroDay Tech Labs
+by Joseph Gonzalez 
 
 <h2>Description</h2>
 
