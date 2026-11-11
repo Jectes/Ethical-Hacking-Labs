@@ -6,7 +6,7 @@
 
 **Joseph Gonzalez**
 
-Hands-on cybersecurity labs documenting attack simulations, technical evidence, and defensive security practices.
+Hands on cybersecurity labs documenting attack simulations, technical evidence, and defensive security practices.
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-111827?style=for-the-badge)
@@ -18,7 +18,7 @@ Hands-on cybersecurity labs documenting attack simulations, technical evidence, 
 
 ## 📖 About This Repository
 
-Welcome to **ZeroDay Tech Labs**, a collection of practical cybersecurity projects conducted in controlled lab environments.
+Welcome to a collection of practical cybersecurity projects conducted in controlled lab environments.
 
 Each project explores a different security risk, documenting the simulation, observed evidence, potential real-world impact, and recommended defensive measures.
 
