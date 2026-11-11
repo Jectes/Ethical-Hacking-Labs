@@ -1,8 +1,8 @@
-<h1>Case 1 · SET</h1>
+<h1>SET Tool</h1>
 
 **Credential Exposure at the Point of Entry: A Controlled Localhost Phishing Simulation Case Study**
 
-Joseph Gonzalez · ZeroDay Tech Labs
+by Joseph Gonzalez
 
 <h2>Description</h2>
 
