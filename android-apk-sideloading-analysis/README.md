@@ -1,8 +1,8 @@
-<h1>Case 2 · AndroRAT</h1>
+<h1>AndroRAT</h1>
 
 **Malicious App Entry to a Mobile Device: A Controlled Android APK Sideloading Simulation Case Study**
 
-Joseph Gonzalez · ZeroDay Tech Labs
+by Joseph Gonzalez 
 
 <h2>Description</h2>
 
