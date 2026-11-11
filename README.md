@@ -1,7 +1,6 @@
 
 <div align="center">
 
-# 🛡️ ZeroDay Tech Labs
 
 ### Ethical Hacking | Cybersecurity Research | Security Awareness
 
